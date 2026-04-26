@@ -24,23 +24,29 @@ It allows users to control appliances via a web interface, with real-time schedu
 
 ---
 
-## 📸 Project Demo
+## 📸 Project Demonstration
 
-### 🌐 Web UI
+### 🌐 Web Interface
 
-![UI](images/ui.png)
+**UI - OFF State**
+![UI OFF](images/01_ui_off.png)
 
-### 🔌 Relay OFF
+**UI - ON State**
+![UI ON](images/02_ui_on.png)
 
-![OFF](images/relay_off.jpg)
+---
 
-### 💡 Relay ON
+### 🔌 Hardware Output
 
-![ON](images/relay_on.jpg)
+| Relay OFF                    | Relay ON                    |
+| ---------------------------- | --------------------------- |
+| ![](images/03_relay_off.jpg) | ![](images/04_relay_on.jpg) |
 
-### 📟 Serial Monitor
+---
 
-![Serial](images/serial.png)
+### 📟 Serial Monitor (System Logs & NTP Sync)
+
+![Serial](images/05_serial_output.png)
 
 ---
 
