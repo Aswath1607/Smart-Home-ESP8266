@@ -41,10 +41,10 @@ It allows users to control appliances via a web interface, with real-time schedu
 ### 🌐 Web Interface
 
 **UI - OFF State**
-![UI OFF](images/01_ui_off.png)
+![UI OFF](Images/01_ui_off.png)
 
 **UI - ON State**
-![UI ON](images/02_ui_on.png)
+![UI ON](Images/02_ui_on.png)
 
 ---
 
@@ -52,13 +52,13 @@ It allows users to control appliances via a web interface, with real-time schedu
 
 | Relay OFF                    | Relay ON                    |
 | ---------------------------- | --------------------------- |
-| ![](images/03_relay_off.jpg) | ![](images/04_relay_on.jpg) |
+| ![](Images/03_relay_off.jpg) | ![](Images/04_relay_on.jpg) |
 
 ---
 
 ### 📟 Serial Monitor (System Logs & NTP Sync)
 
-![Serial](images/05_serial_output.png)
+![Serial](Images/05_serial_output.png)
 
 ---
 
